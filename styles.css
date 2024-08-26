@@ -1,0 +1,79 @@
+.navbar {
+    border: 5px solid; background-color: rgb(5, 5, 5);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.header {
+    color: black;
+
+
+}
+
+.nav_ul{
+    display: flex;
+    gap: 20rem;
+
+}
+
+.h1{
+
+    font: optional;color: rgb(252, 249, 249);
+    text-shadow: rgb(8, 8, 8) -3px 0;
+    
+}
+
+.lia{
+
+    font: optional;color: rgb(252, 251, 251);
+    
+
+}
+
+
+.figura1{
+    text-align: center;
+
+
+}
+
+.img1{
+    text-align: center;border: 2px solid red;height: 500px; display: flex;justify-content: center;align-items: center;
+}
+
+.img2{
+    text-align: center;border: 2px solid red;height: 500px; display: flex;justify-content: center;align-items: center;
+}
+.video11{
+    text-align: center;border: 2px solid red;height: 500px; display: flex;justify-content: center;align-items: center;
+}
+.frame1{
+    text-align: center;border: 2px solid red;height: 500px; display: flex;justify-content: center;align-items: center;
+}
+.h7{
+    text-align: center;
+}
+
+.forma_btn{
+    text-align: center;
+    margin: 1rem;
+}
+
+.btn_audio{
+    padding: 2rem;
+    font-size: 20px;
+    border-radius: 1rem;
+    border: 1px white;
+    background: black;
+    color: #f3f2f2;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 2;
+}
+
+.PDFF{
+    text-align: center;
+
+}
